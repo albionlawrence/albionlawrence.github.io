@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 ---
 
-- [Full CV](ttps://albionlawrence.gihub.io/assets/documents/cv.pdf)
+- [Full CV](https://albionlawrence.github.io/assets/documents/cv.pdf)
 
 ### Education
 - A.B. in Physics, University of California, Berkeley, 1991
