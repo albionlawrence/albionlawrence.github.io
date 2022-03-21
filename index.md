@@ -9,7 +9,7 @@ header:
 
 
 ### Scientific background
-I am a Professor of [Physics](https://www.brandeis.edu/physics/index.html) at [Brandeis University](https://www.brandeis.edu/), and a member of the [Quantum and Gravitational Theory Group](https://www.brandeis.edu/physics/research/high-energy-gravitational-theory.html). 
+I am a Professor of [Physics](https://www.brandeis.edu/physics/index.html) at [Brandeis University](https://www.brandeis.edu/), and a member of the [Quantum and Gravitational Theory Group](https://www.brandeis.edu/physics/research/high-energy-gravitational-theory.html). Im also a member of the DOE-funded [QuantISED](https://science.osti.gov/hep/Research/Quantum-Information-Science-QIS) consortium ["Complex Quantum Systems and the Quantum Universe"](https://www.qiqg.org/). 
 
 My research is in theoretical physics construed broadly, with an eye to connections between disparate areas of physics. My training and the bulk of my work has been in string theory, quantum field theory, and theoretical cosmology. In recent years I have also been working on problems in physical oceanography, geophysical fluid dynamics, and the physics of climate.
 
