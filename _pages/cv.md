@@ -26,7 +26,7 @@ permalink: /cv/
 ### Funding
 
 - PI: DOE grant DE-SC0009986, "Research in Quantum Field Theory, Quantum Gravity, and Cosmology"
-- Co-PI: DOE QuantISED grant DE-SC0020360, ["Complex Quantum Systems and the Quantum Universe"]. 
+- Co-PI: DOE QuantISED grant DE-SC0020360, ["Complex Quantum Systems and the Quantum Universe"](https://www.qiqg.org/). 
 
 ### Service and leadership
 - Member at large, APS Topical Group on the Physics of Climate
