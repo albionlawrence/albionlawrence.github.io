@@ -9,7 +9,7 @@ header:
 
 
 ### Scientific background
-I am a Professor of [Physics](https://www.brandeis.edu/physics/index.html) at [Brandeis University](https://www.brandeis.edu/), and a member of the [Quantum and Gravitational Theory Group](https://www.brandeis.edu/physics/research/high-energy-gravitational-theory.html). 
+I am a Professor of [Physics](https://www.brandeis.edu/physics/index.html) at [Brandeis University](https://www.brandeis.edu/), and a member of the [Quantum and Gravitational Theory Group](https://www.brandeis.edu/physics/research/high-energy-gravitational-theory.html). Im also a member of the DOE-funded [QuantISED](https://science.osti.gov/hep/Research/Quantum-Information-Science-QIS) consortium ["Complex Quantum Systems and the Quantum Universe"](https://www.qiqg.org/). 
 
 My research is in theoretical physics construed broadly, with an eye to connections between disparate areas of physics. My training and the bulk of my work has been in string theory, quantum field theory, and applications of these to cosmology. In recent years I have also been working on problems in physical oceanography, geophysical fluid dynamics, and the physics of climate.
 
@@ -17,4 +17,5 @@ My research is in theoretical physics construed broadly, with an eye to connecti
 I was born in the Bay Area and grew up in Upstate NY and Southern California. I received my A.B. in Physics at the University of 
 California, Berkeley, where I worked for Prof. Paul Richards on instrumentation for balloon-borne cosmic microwave background observations, and did an undergraduate thesis under Prof. Mahiko Suzuki on the theory of neutrino 
 oscillations. I received my PhD at the University of Chicago under Prof. Emil Martinec, doing research on string theory and black holes. After postdoctoral 
-positions at Harvard University and SLAC/Stanford University, I began as faculty at Brandeis.
+positions at Harvard University and SLAC/Stanford University, working in string theory and
+inflationary cosmology, I began as faculty at Brandeis.
