@@ -8,6 +8,9 @@ permalink: /teaching/
 ---
 
 ### Current course:
+- (Brandeis, Fall 2022): PHYS 162a, Quantum Mechanics I. (Graduate-level quantum mechanics).
+
+### Previous courses:
 - (Brandeis, Winter/Spring 2022): PHYS 111a, "Physical Continuum Mechanics". Mixed undergraduate/graduate course in fluid mechanics. 
 [Course notes](https://albionlawrence.github.io/fluid_lectures/intro.html)
 
