@@ -9,14 +9,18 @@ permalink: /publications/
 
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=kyenQWsAAAAJ&view_op=list_works&sortby=pubdate)
 - [arxiv.org](https://arxiv.org/search/?query=Lawrence%2C+Albion&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
-- [iNSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=3&q=ea%20albion%20lawrence%20or%20ea%20albion%20e%20lawrence)
+- [iNSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=ea%20albion%20lawrence%20or%20ea%20albion%20e%20lawrence)
 
-### Submitted for Publication
+### Publications since 2017
 
 - Albion Lawrence and J&ouml;rn Callies, "Seasonality and spatial dependence of meso- and submesoscale ocean
+<<<<<<< HEAD
   currents from along-track satellite altimetry", {\it J. Phys. Oceanogr} {\bf 52} (2022) 2069-2089, [published](https://journals.ametsoc.org/view/journals/phoc/52/9/JPO-D-22-0007.1.xml), [arxiv](https://arxiv.org/abs/2201.09136), [Code](https://github.com/albionlawrence/sm-seasonality).
   
 ### Publications since 2017
+=======
+  currents from along-track satellite altimetry", *Journal of Physical Oceanography* [in press], [arxiv](https://arxiv.org/abs/2201.09136), [Code](https://github.com/albionlawrence/sm-seasonality).
+>>>>>>> b6597c9d4b48ff04dfd4d324b69384bb5bb53d7f
 
 - Harsha Hampapura, Jonathan Harper, and Albion Lawrence, "Target Space Entanglement in Matrix Models", 
 [arxiv](https://arxiv.org/abs/2012.15683), [published](https://link.springer.com/article/10.1007%2FJHEP10%282021%29231),
