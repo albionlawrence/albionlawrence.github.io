@@ -26,7 +26,11 @@ permalink: /cv/
 ### Funding
 
 - PI: DOE grant DE-SC0009986, "Research in Quantum Field Theory, Quantum Gravity, and Cosmology"
-- Co-PI: DOE QuantISED grant DE-SC0020360, ["Complex Quantum Systems and the Quantum Universe"](https://www.qiqg.org/). 
+- Co-PI: DOE QuantISED grant DE-SC0020360, ["Complex Quantum Systems and the Quantum Universe"](https://www.qiqg.org/).
+
+### Awards
+
+- [Simons Pivot Fellow](https://www.simonsfoundation.org/simons-pivot-fellowship/fellows), 2023-24, "Higher-order statistics of geostrophic turbulences and internal waves". [Description](https://www.simonsfoundation.org/people/albion-lawrence/)
 
 ### Service and leadership
 - Member at large, APS Topical Group on the Physics of Climate
