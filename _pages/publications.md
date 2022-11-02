@@ -14,7 +14,7 @@ permalink: /publications/
 ### Submitted for Publication
 
 - Albion Lawrence and J&ouml;rn Callies, "Seasonality and spatial dependence of meso- and submesoscale ocean
-  currents from along-track satellite altimetry", submitted to the *Journal of Physical Oceanography*, [arxiv](https://arxiv.org/abs/2201.09136), [Code](https://github.com/albionlawrence/sm-seasonality).
+  currents from along-track satellite altimetry", {\it J. Phys. Oceanogr} {\bf 52} (2022) 2069-2089, [published](https://journals.ametsoc.org/view/journals/phoc/52/9/JPO-D-22-0007.1.xml), [arxiv](https://arxiv.org/abs/2201.09136), [Code](https://github.com/albionlawrence/sm-seasonality).
   
 ### Publications since 2017
 
