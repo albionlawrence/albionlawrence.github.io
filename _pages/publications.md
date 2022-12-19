@@ -11,6 +11,12 @@ permalink: /publications/
 - [arxiv.org](https://arxiv.org/search/?query=Lawrence%2C+Albion&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
 - [iNSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=ea%20albion%20lawrence%20or%20ea%20albion%20e%20lawrence)
 
+### Preprints
+
+- Vijay Balasubramanian, Albion Lawrence, Javier M. Magan, and Martin Sasieta, "Microscopic origin of the entropy of astrophysical black holes", [arxiv](https://arxiv.org/abs/2212.08623). 
+
+- Vijay Balasubramanian, Albion Lawrence, Javier M. Magan, and Martin Sasieta, "Microscopic origin of the entropy of black holes in general relativity", [arxiv](https://arxiv.org/abs/2212.02447).
+
 ### Publications since 2017
 
 - Albion Lawrence and J&ouml;rn Callies, "Seasonality and spatial dependence of meso- and submesoscale ocean
