@@ -7,27 +7,30 @@ permalink: /research/
 #   caption: "[Global temp anomaly from 1850-2018.](https://en.wikipedia.org/wiki/Warming_stripes)"
 ---
 
-### Quantum Dynamics of Axions
-
-- Generalized symmetries
-- Quantum gravity constraints
-- Applications to cosmology and particle physics
-
 ### Quantum information and quantum gravity
 
 - Open quantum systems
 - Entanglement of non-spatial degrees of freedom
+- Quantum Black Holes
+- Gauge/gravity duality
+
+### Quantum Field Theory and Cosmology
+
+- Axion models of inflation
+- Quantum field theory of inflation
+- Impacts of quantum gravity on 
 
 ### Geophysical Fluid Dynamics
 
 - Hamiltonian methods
-- Statistics of turbulence
-- Mixing with nonzero fluid input
+- Nonequilibrium statistical mechanics of geophysical flows
+- Wave-mean flow interactions
 
 ### Physical Oceanography
 
-- Altimetric studies of upper-ocean submesoscales
-- Disentangling balanced flow and internal gravity waves in altimeters
+- Altimetric studies of upper-ocean turbulence
+- Submesoscale dynamics
+- Internal Gravity Waves
 
 
 
