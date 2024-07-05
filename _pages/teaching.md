@@ -9,7 +9,7 @@ permalink: /teaching/
 
 ### Current course:
 
-On leave, 2023-24 academic year.
+- Brandeis, Fall 2024: PHYS 162a.
 
 ### Previous courses (recent):
 - Brandeis, Spring 2023: PHYS 40a, Introduction to Thermodynamics and Statistical Mechanics (Undergraduate level)

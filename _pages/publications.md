@@ -13,11 +13,15 @@ permalink: /publications/
 
 ### Preprints
 
-- Vijay Balasubramanian, Albion Lawrence, Javier M. Magan, and Martin Sasieta, "Microscopic origin of the entropy of astrophysical black holes", [arxiv](https://arxiv.org/abs/2212.08623). 
-
-- Vijay Balasubramanian, Albion Lawrence, Javier M. Magan, and Martin Sasieta, "Microscopic origin of the entropy of black holes in general relativity", [arxiv](https://arxiv.org/abs/2212.02447).
+- Scott Conn, J&ouml;rn Callies, and Albion Lawrence, "Regimes of Near-Inertial Wave Dynamics", submitted to *J. Fluid. Mech.*, [arxiv](https://arxiv.org/abs/2407.02709).
 
 ### Publications since 2017
+
+- Gurbir Arora, Matthew Headrick, Albion Lawrence, Martin Sasieta, and Connor Wolfe, "Geometric Surprises in the Python's Lunch Conjecture", *SciPost Physics* **16** (2024) 152, [published](https://www.scipost.org/SciPostPhys.16.6.152?acad_field_slug=physics), [arxiv](https://arxiv.org/abs/2401.06678).
+
+- Vijay Balasubramanian, Albion Lawrence, Javier M. Magan, and Martin Sasieta, "Microscopic origin of the entropy of astrophysical black holes", *Phys. Rev. Lett.* **132** (2024) 141501, [published](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.141501), [arxiv](https://arxiv.org/abs/2212.08623). 
+
+- Vijay Balasubramanian, Albion Lawrence, Javier M. Magan, and Martin Sasieta, "Microscopic origin of the entropy of black holes in general relativity", *Phys. Rev X* **14** (2024) 011024,  [published](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011024),  [arxiv](https://arxiv.org/abs/2212.02447).
 
 - Albion Lawrence and J&ouml;rn Callies, "Seasonality and spatial dependence of meso- and submesoscale ocean currents from along-track satellite altimetry", *J. Phys. Oceanogr.* **52** (2022) 2069-2089, [published](https://journals.ametsoc.org/view/journals/phoc/52/9/JPO-D-22-0007.1.xml), [arxiv](https://arxiv.org/abs/2201.09136), [Code](https://github.com/albionlawrence/sm-seasonality).
   
