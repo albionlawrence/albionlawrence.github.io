@@ -17,7 +17,7 @@ I am a member of the [Geophysics and Astrophysics](https://www.brandeis.edu/phys
 
 ### Current advisees
 
-- Dr. Jack Skinner (PhD 2022, Queen Mary University). Joint Brandeis-Caltech postdoc (co-advised by [J%ouml;rn Callies](https://jcallies.com/) ) working on novel analysis techniques for satellite altimetry.
+- Dr. Jack Skinner (PhD 2022, Queen Mary University). Joint Brandeis-Caltech postdoc (co-advised by [J&ouml;rn Callies](https://jcallies.com/) ) working on novel analysis techniques for satellite altimetry.
 
 ### Physical Oceanography
 
@@ -74,7 +74,7 @@ potential in one dimension". Lecturer in Physics and Astronomy, University Colle
 
 - Tobias Sander, Brandeis U. PhD, 2007. Senior Manager, Berg Lund and Company, Hamburg, Germany.
 - Nathaniel Reden, Brandeis U.  PhD, 2014. Instructor in Physics and Mathematics, Bancroft School, Worcester, MA.
-- Cesar Ag\'on, Brandeis U., PhD, 2017. Postdoc at C\'entro At\'omico Bariloche, Argentina.
+- Cesar Agon, Brandeis U., PhD, 2017. Postdoc at C\'entro At\'omico Bariloche, Argentina.
 - Andrew Rolph, Brandeis U., PhD, 2020. Postdoc at the University of Amsterdam.
 - Harsha Hampapura, Brandeis U., 2016-2024. Winter 2024: Associate Scientist, National Center for Atmospheric Research. 
 - Jonathan Harper, Brandeis U., 2016-2022. Fall 2022: postdoc at Yukawa Institute, University of Kyoto.
