@@ -55,7 +55,7 @@ I am a member of the [Quantum and Gravitational Theory Group](https://www.brande
 
 ## Former advisees
 
-## Undergraduate Students Supervised
+### Undergraduate Students Supervised
 
 - Ian Shoemaker, 2004-2005, Brandeis U. Thesis title: "Decoherence and Inflation".
 Associate Professor of Physics, Virginia Tech.
@@ -70,4 +70,23 @@ potential in one dimension". Lecturer in Physics and Astronomy, University Colle
 - Aaron Fogel, 2018-2019. "Corrections to molecular dynamics in the Born-Oppenheimer Approximation". Researcher in quantum information for the military.
 - Yunfei Wang, 2021. Thesis: "Open system dynamics with a Hagedorn bath." PhD student, University of Maryland.
 
+### Graduate Students Supervised
 
+- Tobias Sander, Brandeis U. PhD, 2007. Senior Manager, Berg Lund and Company, Hamburg, Germany.
+- Nathaniel Reden, Brandeis U.  PhD, 2014. Instructor in Physics and Mathematics, Bancroft School, Worcester, MA.
+- Cesar Ag\'on, Brandeis U., PhD, 2017. Postdoc at C\'entro At\'omico Bariloche, Argentina.
+- Andrew Rolph, Brandeis U., PhD, 2020. Postdoc at the University of Amsterdam.
+- Harsha Hampapura, Brandeis U., 2016-2024. Winter 2024: Associate Scientist, National Center for Atmospheric Research. 
+- Jonathan Harper, Brandeis U., 2016-2022. Fall 2022: postdoc at Yukawa Institute, University of Kyoto.
+- Alastair Grant-Stuart, Brandeis U., 2016-2022. Fall 2022: postdoc at University of Nottingham.
+
+### Postdocs Supervised
+
+- Prof. Martin Kruczenski (PhD, Buenos Aires U., Argentina), 
+2003-2005.  Professor of physics, Purdue Univ.
+- Prof. Amit Sever (PhD, Hebrew U., Israel), 2005-2008. Faculty, School of Physics and Astronomy, Tel Aviv University.
+- Prof. Marco Aldi (PhD, Northwestern U), 2010-2012. (FRG postdoc in Mathematics). Associate professor of mathematics, Virginia Commonwealth University.
+- Prof.. Masoud Soroush (PhD, Stanford University), 2013-2015. Assistant professor of physics at Coppin State Univ.
+- Dr. Ida Zadeh (PhD, University of Toronto), 2013-2016. Postdoc at the International Center for Theoretical Physics, Trieste, Italy. 
+- Dr. Bogdan Stoica (PhD, Caltech), 2016-2019. Postdoc at Northwestern.
+- Dr. Djordje Radicevic (PhD, Stanford), 2019-2022. Quantitative researcher, Citadel Securities.
