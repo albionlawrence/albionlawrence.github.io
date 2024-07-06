@@ -15,9 +15,6 @@ I divide my time between topics relevant to planetary climate and topics in quan
 
 I am a member of the [Astrophysics and Geophysics Group](https://www.brandeis.edu/physics/research/astrophysics.html) at Brandeis, and a Visiting Associate in [Environmental Science and Engineering](https://ese.caltech.edu/) at Caltech.
 
-### Current advisees
-
-- Dr. Jack Skinner (PhD 2022, Queen Mary University). Joint Brandeis-Caltech postdoc co-advised by [Joern Callies](https://jcallies.com/) working on novel analysis techniques for satellite altimetry.
 
 ### Physical Oceanography
 
@@ -31,14 +28,14 @@ I am a member of the [Astrophysics and Geophysics Group](https://www.brandeis.ed
 - Hamiltonian methods
 - Field theory techniques
 
+### Current advisees
+
+- Dr. Jack Skinner (PhD 2022, Queen Mary University). Joint Brandeis-Caltech postdoc co-advised by [Joern Callies](https://jcallies.com/) working on novel analysis techniques for satellite altimetry.
+
+
 ## Quantum Field theory and Quantum Gravity
 
 I am a member of the [Quantum and Gravitational Theory Group](https://www.brandeis.edu/physics/hegt/) at Brandeis.
-
-### Current advisees
-
-- Martin Sasieta (PhD 2022, IFT Madrid), Postdoc.
-- Connor Wolfe, PhD student.
 
 ### Quantum information and quantum gravity
 
@@ -53,21 +50,28 @@ I am a member of the [Quantum and Gravitational Theory Group](https://www.brande
 - Quantum field theory of inflation
 - Constraints and effects of quantum gravity on models of cosmology and particle physics
 
-## Former advisees
+
+### Current advisees
+
+- Martin Sasieta (PhD 2022, IFT Madrid), Postdoc.
+- Connor Wolfe, PhD student.
+
+## Former advisees 
+
 
 ### Undergraduate Students
 
 - Ian Shoemaker, 2004-2005, Brandeis U. Thesis title: "Decoherence and Inflation".
 Associate Professor of Physics, Virginia Tech.
 - Matthew Roberts, 2004-2005, Brandeis U.  Thesis title: "PT-symmetric quantum mechanics". Assitant Professor, POSTECH, Korea.
-- Benson Way, 2007-2008, Brandeis U. Thesis title: "Axion constraints and
+- Benson Way, 2007-2008, Brandeis U. Thesis: "Axion constraints and
 string-wall dynamics". Postdoc at University of Barcelona.
-- Kabir Husain, 2008-2009.  Thesis Title: "Semiclassical and quantum dynamics of the Coulomb
+- Kabir Husain, 2008-2009.  Thesis: "Semiclassical and quantum dynamics of the Coulomb
 potential in one dimension". Lecturer in Physics and Astronomy, University College London.
-- Samuel McCandlish, 2011-2012. "Bending and Breaking Time Contours: A World Line Approach to Quantum Field Theory".  Cofounder, Anthropic.
-- Skyler Kasko, 2013-2014. }Coarse Grained Quantum Dynamics".
-- Stefan Stanojevic, 2014-2015. "The large-N $O(N)$ model on hyperbolic space". Senior Machine Learning Scientist, Flagship Pioneering.
-- Aaron Fogel, 2018-2019. "Corrections to molecular dynamics in the Born-Oppenheimer Approximation". Researcher in quantum information for the military.
+- Samuel McCandlish, 2011-2012. Thesis: "Bending and Breaking Time Contours: A World Line Approach to Quantum Field Theory".  Cofounder, Anthropic.
+- Skyler Kasko, 2013-2014. }Thesis: "Coarse Grained Quantum Dynamics".
+- Stefan Stanojevic, 2014-2015. Thesis: "The large-N $O(N)$ model on hyperbolic space". Senior Machine Learning Scientist, Flagship Pioneering.
+- Aaron Fogel, 2018-2019. Thesis: "Corrections to molecular dynamics in the Born-Oppenheimer Approximation". Researcher in quantum information for the military.
 - Yunfei Wang, 2021. Thesis: "Open system dynamics with a Hagedorn bath." PhD student, University of Maryland.
 
 ### Graduate Students
