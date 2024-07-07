@@ -61,15 +61,15 @@ I am a member of the [Quantum and Gravitational Theory Group](https://www.brande
 
 ### Undergraduate Students
 
-- Ian Shoemaker, 2004-2005, Brandeis U. Thesis title: "Decoherence and Inflation".
+- Ian Shoemaker, 2004-2005, Brandeis U. Thesis: "Decoherence and Inflation".
 Associate Professor of Physics, Virginia Tech.
-- Matthew Roberts, 2004-2005, Brandeis U.  Thesis title: "PT-symmetric quantum mechanics". Assitant Professor, POSTECH, Korea.
+- Matthew Roberts, 2004-2005, Brandeis U.  Thesis: "PT-symmetric quantum mechanics". Assitant Professor, POSTECH, Korea.
 - Benson Way, 2007-2008, Brandeis U. Thesis: "Axion constraints and
 string-wall dynamics". Postdoc at University of Barcelona.
 - Kabir Husain, 2008-2009.  Thesis: "Semiclassical and quantum dynamics of the Coulomb
 potential in one dimension". Lecturer in Physics and Astronomy, University College London.
 - Samuel McCandlish, 2011-2012. Thesis: "Bending and Breaking Time Contours: A World Line Approach to Quantum Field Theory".  Cofounder, Anthropic.
-- Skyler Kasko, 2013-2014. }Thesis: "Coarse Grained Quantum Dynamics".
+- Skyler Kasko, 2013-2014. Thesis: "Coarse Grained Quantum Dynamics".
 - Stefan Stanojevic, 2014-2015. Thesis: "The large-N $O(N)$ model on hyperbolic space". Senior Machine Learning Scientist, Flagship Pioneering.
 - Aaron Fogel, 2018-2019. Thesis: "Corrections to molecular dynamics in the Born-Oppenheimer Approximation". Researcher in quantum information for the military.
 - Yunfei Wang, 2021. Thesis: "Open system dynamics with a Hagedorn bath." PhD student, University of Maryland.
