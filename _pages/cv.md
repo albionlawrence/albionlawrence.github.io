@@ -36,5 +36,5 @@ permalink: /cv/
 
 ### Service and leadership
 - Member at large, APS [Topical Group on the Physics of Climate](https://engage.aps.org/gpc/home), 2020-2022.
-- Co-organizer, APS-GPC [Climate Physics](https://engage.aps.org/gpc/resources/seminar-series) seminar.
+- Seminar committee chair, APS-GPC [Climate Physics](https://engage.aps.org/gpc/resources/seminar-series) seminar.
 - Co-organizer, Summer 2023 [Aspen Center for Physics](https://www.aspenphys.org/) workshop on "Geometric and Field Theoretic Methods for Astro-, Geo-, and Bio-physical Fluids". 
