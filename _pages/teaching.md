@@ -9,9 +9,10 @@ permalink: /teaching/
 
 ### Current course:
 
-- Brandeis, Fall 2024: PHYS 162a.
+- Brandeis, Fall 2024: PHYS 162a. [Course notes](https://albionlawrence.github.io/quantum_part_1/intro.html). (In progress!)
 
 ### Previous courses (recent):
+
 - Brandeis, Spring 2023: PHYS 40a, Introduction to Thermodynamics and Statistical Mechanics (Undergraduate level)
 - Brandeis, Fall 2022: PHYS 162a, Quantum Mechanics I (Graduate Level)
 - Brandeis, Winter/Spring 2022: PHYS 111a, Physical Continuum Mechanics. Mixed undergraduate/graduate course in fluid mechanics. 
