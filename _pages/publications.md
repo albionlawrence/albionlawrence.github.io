@@ -13,7 +13,7 @@ permalink: /publications/
 
 ### Preprints
 
-- Scott Conn, J&ouml;rn Callies, and Albion Lawrence, "Regimes of Near-Inertial Wave Dynamics", submitted to *J. Fluid. Mech.*, [arxiv](https://arxiv.org/abs/2407.02709).
+- Scott Conn, J&ouml;rn Callies, and Albion Lawrence, "Regimes of Near-Inertial Wave Dynamics", accepted in *J. Fluid. Mech.*, [arxiv](https://arxiv.org/abs/2407.02709).
 
 ### Publications since 2017
 
