@@ -79,7 +79,7 @@ potential in one dimension". Lecturer in Physics and Astronomy, University Colle
 - Tobias Sander, Brandeis U. PhD, 2007. Senior Manager, Berg Lund and Company, Hamburg, Germany.
 - Nathaniel Reden, Brandeis U.  PhD, 2014. Instructor in Physics and Mathematics, Bancroft School, Worcester, MA.
 - Cesar Agon, Brandeis U., PhD, 2017. Postdoc at Centro Atomico Bariloche, Argentina.
-- Andrew Rolph, Brandeis U., PhD, 2020. Postdoc at the University of Amsterdam.
+- Andrew Rolph, Brandeis U., PhD, 2020. Postdoc at Vrije University, Brussels.
 - Harsha Hampapura, Brandeis U., 2016-2024. Winter 2024: Associate Scientist, National Center for Atmospheric Research. 
 - Jonathan Harper, Brandeis U., 2016-2022. Fall 2022: postdoc at Yukawa Institute, University of Kyoto.
 - Alastair Grant-Stuart, Brandeis U., 2016-2022. Fall 2022: postdoc at University of Nottingham.
@@ -90,7 +90,7 @@ potential in one dimension". Lecturer in Physics and Astronomy, University Colle
 2003-2005.  Professor of physics, Purdue Univ.
 - Prof. Amit Sever (PhD, Hebrew U., Israel), 2005-2008. Faculty, School of Physics and Astronomy, Tel Aviv University.
 - Prof. Marco Aldi (PhD, Northwestern U), 2010-2012. (FRG postdoc in Mathematics). Associate professor of mathematics, Virginia Commonwealth University.
-- Prof. Masoud Soroush (PhD, Stanford University), 2013-2015. Assistant professor of physics at Coppin State Univ.
+- Prof. Masoud Soroush (PhD, Stanford University), 2013-2015. Assistant Teaching Professor, Dept. of Computer Science and Electrical Engineering, University of Maryland, Baltimore County.
 - Dr. Ida Zadeh (PhD, University of Toronto), 2013-2016. Postdoc at the International Center for Theoretical Physics, Trieste, Italy. 
-- Dr. Bogdan Stoica (PhD, Caltech), 2016-2019. Postdoc at Northwestern.
+- Dr. Bogdan Stoica (PhD, Caltech), 2016-2019. Working in financial sector.
 - Dr. Djordje Radicevic (PhD, Stanford), 2019-2022. Quantitative researcher, Citadel Securities.

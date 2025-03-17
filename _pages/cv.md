@@ -27,14 +27,24 @@ permalink: /cv/
 ### Funding
 
 - PI: NASA Physical Oceanography grant 80NSSC23K0345, "Higher-order statistics of geostrophic turbulence and internal waves".
-- PI: DOE grant DE-SC0009986, "Research in Quantum Field Theory, Quantum Gravity, and Cosmology"
-- Co-PI: DOE QuantISED grant DE-SC0020360, ["Complex Quantum Systems and the Quantum Universe"](https://www.qiqg.org/).
+- PI: DOE grant DE-SC0009986, "Research in Quantum Field Theory, Quantum Gravity, and Cosmology".
+- Co-PI: (2021-24) DOE QuantISED grant DE-SC0020360, ["Complex Quantum Systems and the Quantum Universe"](https://www.qiqg.org/).
 
 ### Awards
 
 - [Simons Foundation Pivot Fellowship](https://www.simonsfoundation.org/simons-pivot-fellowship/fellows), 2023-24, "Higher-order statistics of geostrophic turbulences and internal waves". [Description](https://www.simonsfoundation.org/people/albion-lawrence/)
 
 ### Service and leadership
+- Member, Brandeis University [Faculty Senate](https://www.brandeis.edu/faculty-senate/), representing the Division of Science.
 - Member at large, APS [Topical Group on the Physics of Climate](https://engage.aps.org/gpc/home), 2020-2022.
-- Seminar committee chair, APS-GPC [Climate Physics](https://engage.aps.org/gpc/resources/seminar-series) seminar.
+- Seminar committee chair, APS-GPC [Climate Physics](https://engage.aps.org/gpc/resources/seminar-series) seminar, 2024-2025.
 - Co-organizer, Summer 2023 [Aspen Center for Physics](https://www.aspenphys.org/) workshop on "Geometric and Field Theoretic Methods for Astro-, Geo-, and Bio-physical Fluids". 
+
+### Professional orgnizations
+
+- Member, [American Physical Society](https://www.aps.org/)
+- Member, [American Meteorological Society](https://www.ametsoc.org/ams/)
+- Member, [American Geophysical Union](https://www.agu.org/)
+- Member, [American Association for teh Advancement of Science](https://www.aaas.org/)
+- Member, [American Association of University Professors](https://www.aaup.org/)
+

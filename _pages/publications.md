@@ -11,11 +11,10 @@ permalink: /publications/
 - [arxiv.org](https://arxiv.org/search/?query=Lawrence%2C+Albion&searchtype=author&abstracts=show&order=-announced_date_first&size=50)
 - [iNSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=ea%20albion%20lawrence%20or%20ea%20albion%20e%20lawrence)
 
-### Preprints
-
-- Scott Conn, J&ouml;rn Callies, and Albion Lawrence, "Regimes of Near-Inertial Wave Dynamics", accepted in *J. Fluid. Mech.*, [arxiv](https://arxiv.org/abs/2407.02709).
 
 ### Publications since 2017
+
+- Scott Conn, J&ouml;rn Callies, and Albion Lawrence, "Regimes of Near-Inertial Wave Dynamics", *J. Fluid. Mech.* **1002** (2025) A22, [published](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/regimes-of-nearinertial-wave-dynamics/EF5D7BF32476D89A6582B8C3033252F9), [arxiv](https://arxiv.org/abs/2407.02709)
 
 - Gurbir Arora, Matthew Headrick, Albion Lawrence, Martin Sasieta, and Connor Wolfe, "Geometric Surprises in the Python's Lunch Conjecture", *SciPost Physics* **16** (2024) 152, [published](https://www.scipost.org/SciPostPhys.16.6.152?acad_field_slug=physics), [arxiv](https://arxiv.org/abs/2401.06678).
 
