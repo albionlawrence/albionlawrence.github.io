@@ -35,7 +35,7 @@ permalink: /cv/
 - [Simons Foundation Pivot Fellowship](https://www.simonsfoundation.org/simons-pivot-fellowship/fellows), 2023-24, "Higher-order statistics of geostrophic turbulences and internal waves". [Description](https://www.simonsfoundation.org/people/albion-lawrence/)
 
 ### Service and leadership
-- Member, Brandeis University [Faculty Senate](https://www.brandeis.edu/faculty-senate/), representing the Division of Science.
+- Member, Brandeis University [Faculty Senate](https://www.brandeis.edu/faculty-senate/), representing the Division of Science, elected 2024.
 - Member at large, APS [Topical Group on the Physics of Climate](https://engage.aps.org/gpc/home), 2020-2022.
 - Seminar committee chair, APS-GPC [Climate Physics](https://engage.aps.org/gpc/resources/seminar-series) seminar, 2024-2025.
 - Co-organizer, Summer 2023 [Aspen Center for Physics](https://www.aspenphys.org/) workshop on "Geometric and Field Theoretic Methods for Astro-, Geo-, and Bio-physical Fluids". 
@@ -45,6 +45,6 @@ permalink: /cv/
 - Member, [American Physical Society](https://www.aps.org/)
 - Member, [American Meteorological Society](https://www.ametsoc.org/ams/)
 - Member, [American Geophysical Union](https://www.agu.org/)
-- Member, [American Association for teh Advancement of Science](https://www.aaas.org/)
+- Member, [American Association for the Advancement of Science](https://www.aaas.org/)
 - Member, [American Association of University Professors](https://www.aaup.org/)
 
