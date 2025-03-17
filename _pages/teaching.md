@@ -9,7 +9,7 @@ permalink: /teaching/
 
 ### Current course:
 
-- Brandeis, Fall 2024: PHYS 162a. [Course notes](https://albionlawrence.github.io/quantum_part_1/intro.html). (In progress!)
+- Brandeis, 2024-25: PHYS 162a/b: Quantum Mechanics (graduate level). [Course notes](https://albionlawrence.github.io/quantum_part_1/intro.html). (In progress!)
 
 ### Previous courses (recent):
 
