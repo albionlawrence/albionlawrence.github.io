@@ -12,6 +12,10 @@ permalink: /publications/
 - [iNSPIRE-HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=ea%20albion%20lawrence%20or%20ea%20albion%20e%20lawrence)
 
 
+### Preprints
+
+- Jack Skinner, Albion Lawrence, and J&ouml;rn Callies, "Characterizing Ocean Flows with the Scattering Transform", [arxiv](https://arxiv.org/abs/2505.00819).
+
 ### Publications since 2017
 
 - Scott Conn, J&ouml;rn Callies, and Albion Lawrence, "Regimes of Near-Inertial Wave Dynamics", *J. Fluid. Mech.* **1002** (2025) A22, [published](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/regimes-of-nearinertial-wave-dynamics/EF5D7BF32476D89A6582B8C3033252F9), [arxiv](https://arxiv.org/abs/2407.02709)
