@@ -53,7 +53,6 @@ I am a member of the [Quantum and Gravitational Theory Group](https://www.brande
 
 ### Current advisees
 
-- Martin Sasieta (PhD 2022, IFT Madrid), Postdoc.
 - Connor Wolfe, PhD student.
 
 ## Former advisees 
@@ -78,7 +77,7 @@ potential in one dimension". Lecturer in Physics and Astronomy, University Colle
 
 - Tobias Sander, Brandeis U. PhD, 2007. Senior Manager, Berg Lund and Company, Hamburg, Germany.
 - Nathaniel Reden, Brandeis U.  PhD, 2014. Instructor in Physics and Mathematics, Bancroft School, Worcester, MA.
-- Cesar Agon, Brandeis U., PhD, 2017. Postdoc at Centro Atomico Bariloche, Argentina.
+- Cesar Agon, Brandeis U., PhD, 2017. Faculty, Universidad Polit\'ecnica de Cartagena..
 - Andrew Rolph, Brandeis U., PhD, 2020. Postdoc at Vrije University, Brussels.
 - Harsha Hampapura, Brandeis U., 2016-2024. Winter 2024: Associate Scientist, National Center for Atmospheric Research. 
 - Jonathan Harper, Brandeis U., 2016-2022. Fall 2022: postdoc at Yukawa Institute, University of Kyoto.
@@ -94,3 +93,4 @@ potential in one dimension". Lecturer in Physics and Astronomy, University Colle
 - Dr. Ida Zadeh (PhD, University of Toronto), 2013-2016. Postdoc at the International Center for Theoretical Physics, Trieste, Italy. 
 - Dr. Bogdan Stoica (PhD, Caltech), 2016-2019. Working in financial sector.
 - Dr. Djordje Radicevic (PhD, Stanford), 2019-2022. Quantitative researcher, Citadel Securities.
+- Dr. Martin Sasieta (PhD, Universidad Aut\'onoma de Madrid), 2022-2025. Postdoc, UC Berkeley.

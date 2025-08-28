@@ -19,7 +19,7 @@ permalink: /cv/
 - 2017-present: Professor of Physics, Brandeis University
 - 2018: Visiting Scientist, Dept. of Earth, Atmospheric, and Planetary Studies, MIT
 - 2018-2021: Chair, Department of Physics, Brandeis University
-- 2023-2024: Visiting Associate, Environmental Science and Engineering Program, Caltech. 
+- 2023-present: Visiting Associate, Environmental Science and Engineering Program, Caltech. 
 
 ### Teaching
 - Quantum Mechanics (undergraduate and graduate), Quantum Field Theory (graduate), Classical Mechanics (intro level, advanced undergraduate, and graduate), Statistical Mechanics (graduate), General Relativity (undergraduate), Fluid Mechanics (undergraduate and graduate), Cosmology (intro level undergraduate)
@@ -28,17 +28,20 @@ permalink: /cv/
 
 - PI: NASA Physical Oceanography grant 80NSSC23K0345, "Higher-order statistics of geostrophic turbulence and internal waves".
 - PI: DOE grant DE-SC0009986, "Research in Quantum Field Theory, Quantum Gravity, and Cosmology".
-- Co-PI: (2021-24) DOE QuantISED grant DE-SC0020360, ["Complex Quantum Systems and the Quantum Universe"](https://www.qiqg.org/).
 
 ### Awards
 
 - [Simons Foundation Pivot Fellowship](https://www.simonsfoundation.org/simons-pivot-fellowship/fellows), 2023-24, "Higher-order statistics of geostrophic turbulences and internal waves". [Description](https://www.simonsfoundation.org/people/albion-lawrence/)
+- [Department of Energy](https://www.energy.gov/) Outstanding Junior Investigator award, 2004-2009.
 
 ### Service and leadership
 - Member, Brandeis University [Faculty Senate](https://www.brandeis.edu/faculty-senate/), representing the Division of Science, elected 2024.
+- Secretary-Treasurer, [Brandeis chapter](https://www.aaup-brandeis.org/) of the [American Association of University Professors](https://www.aaup.org/) https://www.aaup.org/)
+.
 - Member at large, APS [Topical Group on the Physics of Climate](https://engage.aps.org/gpc/home), 2020-2022.
 - Seminar committee chair, APS-GPC [Climate Physics](https://engage.aps.org/gpc/resources/seminar-series) seminar, 2024-2025.
 - Co-organizer, Summer 2023 [Aspen Center for Physics](https://www.aspenphys.org/) workshop on "Geometric and Field Theoretic Methods for Astro-, Geo-, and Bio-physical Fluids". 
+ 
 
 ### Professional orgnizations
 
