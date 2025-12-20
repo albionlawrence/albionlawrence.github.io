@@ -31,6 +31,7 @@ I am a member of the [Astrophysics and Geophysics Group](https://www.brandeis.ed
 ### Current advisees
 
 - Dr. Jack Skinner (PhD 2022, Queen Mary University). Joint Brandeis-Caltech postdoc co-advised by [Joern Callies](https://jcallies.com/) working on novel analysis techniques for satellite altimetry.
+- Greg Roitbourd, Brandeis undergraduate. Senior honors thesis student.
 
 
 ## Quantum Field theory and Quantum Gravity

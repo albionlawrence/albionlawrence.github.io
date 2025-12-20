@@ -14,6 +14,7 @@ permalink: /publications/
 
 ### Preprints
 
+- Jack Skinner, J&ouml;rn Callies, Albion Lawrence, and Xihan Zhang, "Isolating Balanced Dynamics in SWOT data", [arxiv](https://arxiv.org/abs/2512.03258)
 - Jack Skinner, Albion Lawrence, and J&ouml;rn Callies, "Characterizing Ocean Flows with the Scattering Transform", [arxiv](https://arxiv.org/abs/2505.00819).
 
 ### Publications since 2017

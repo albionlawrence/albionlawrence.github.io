@@ -28,6 +28,7 @@ permalink: /cv/
 
 - PI: NASA Physical Oceanography grant 80NSSC23K0345, "Higher-order statistics of geostrophic turbulence and internal waves".
 - PI: DOE grant DE-SC0009986, "Research in Quantum Field Theory, Quantum Gravity, and Cosmology".
+- PI: Simons Foundation Pivot Research Award, "Theoretical Physics of the Ocean".
 
 ### Awards
 
