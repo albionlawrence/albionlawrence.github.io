@@ -13,14 +13,13 @@ I divide my time between topics relevant to planetary climate and topics in quan
 
 ## Planetary Climates
 
-I am a member of the [Astrophysics and Geophysics Group](https://www.brandeis.edu/physics/research/astrophysics.html) at Brandeis, and a Visiting Associate in [Environmental Science and Engineering](https://ese.caltech.edu/) at Caltech.
-
+I am a member of the [Astrophysics and Geophysics Group](https://www.brandeis.edu/physics/research/astrophysics.html) at Brandeis.
 
 ### Physical Oceanography
 
-- Analysis and interpretation of satellite altimetry data
 - Upper ocean turbulence
 - Near-Inertial Waves and Internal Gravity Waves
+- Analysis and interpretation of satellite altimetry data
 
 ### Geophysical Fluid Dynamics
 
@@ -28,9 +27,16 @@ I am a member of the [Astrophysics and Geophysics Group](https://www.brandeis.ed
 - Hamiltonian methods
 - Field theory techniques
 
-### Current advisees
+### Current group members
 
-- Dr. Jack Skinner (PhD 2022, Queen Mary University). Joint Brandeis-Caltech postdoc co-advised by [Joern Callies](https://jcallies.com/) working on novel analysis techniques for satellite altimetry.
+*Postdocs:*
+
+- Dr. Paban Bhuyan (PhD, 2026, U. Conn). 
+- Dr. Avik Mondal (PhD, 2026, U. Michigan).
+
+### Former group members 
+
+- Dr. Jack Skinner (PhD 2022, Queen Mary University). Joint Brandeis-Caltech postdoc co-advised by [Joern Callies](https://jcallies.com/). Now a postdoc at UCLA+Scripps. 
 - Greg Roitbourd, Brandeis undergraduate. Senior honors thesis student.
 
 
