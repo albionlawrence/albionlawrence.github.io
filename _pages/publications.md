@@ -14,7 +14,9 @@ permalink: /publications/
 
 ### Preprints
 
-- Jack Skinner, J&ouml;rn Callies, Albion Lawrence, and Xihan Zhang, "Isolating Balanced Dynamics in SWOT data", [arxiv](https://arxiv.org/abs/2512.03258)
+- Andrew Keefe, Brenden Bowen, Saptarshi Biswas, Albion Lawrence, Nishant Agarwal, and Archana Kamal, "Open system probes of renormalization group flow", [arxiv](https://arxiv.org/abs/2608.13664).
+- Gurbir Arora, Matthew Headrick, Albion Lawrence, Martin Sasieta, Brian Swingle, and Connor Wolfe, "Twirled Perfect Tensor Networks: Computationally covariant holographic tensor networks", [arxiv](https://arxiv.org/abs/2605.23670).
+- Jack Skinner, J&ouml;rn Callies, Albion Lawrence, and Xihan Zhang, "Isolating Balanced Dynamics in SWOT data", [arxiv](https://arxiv.org/abs/2512.03258).
 - Jack Skinner, Albion Lawrence, and J&ouml;rn Callies, "Characterizing Ocean Flows with the Scattering Transform", [arxiv](https://arxiv.org/abs/2505.00819).
 
 ### Publications since 2017
