@@ -19,7 +19,7 @@ permalink: /cv/
 - 2017-present: Professor of Physics, Brandeis University
 - 2018: Visiting Scientist, Dept. of Earth, Atmospheric, and Planetary Studies, MIT
 - 2018-2021: Chair, Department of Physics, Brandeis University
-- 2023-present: Visiting Associate, Environmental Science and Engineering Program, Caltech. 
+- 2023-2026: Visiting Associate, Environmental Science and Engineering Program, Caltech. 
 
 ### Teaching
 - Quantum Mechanics (undergraduate and graduate), Quantum Field Theory (graduate), Classical Mechanics (intro level, advanced undergraduate, and graduate), Statistical Mechanics (graduate), General Relativity (undergraduate), Fluid Mechanics (undergraduate and graduate), Cosmology (intro level undergraduate)
